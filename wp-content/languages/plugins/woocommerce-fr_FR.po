@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-10-22 12:37:49+0000\n"
+"PO-Revision-Date: 2020-11-02 16:35:19+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2870,7 +2870,7 @@ msgstr "Votre boutique est configurée pour prendre en charge les produits numé
 
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Google_Ads_And_Marketing.php:73
 msgid "Get started"
-msgstr "Commencer"
+msgstr "Premiers pas"
 
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Set_Up_Additional_Payment_Types.php:82
 #: packages/woocommerce-admin/dist/chunks/49.e78eb9119c8eac3f6923.js:1
@@ -4586,10 +4586,6 @@ msgstr "Point de terminaison utilisé pour rechercher les journaux de téléchar
 msgid "Deactivate old WooCommerce Admin version"
 msgstr "Désactiver l’ancienne version de WooCommerce Admin"
 
-#: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Historical_Data.php:83
-msgid "Get Started"
-msgstr "Commencer"
-
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Historical_Data.php:75
 msgid "To view your historical analytics data, you must process your existing orders and customers."
 msgstr "Pour consulter vos données de statistiques historiques, vous devez traiter vos commandes et clients existants."
@@ -4633,6 +4629,10 @@ msgstr "L’abonnement à %s expire bientôt"
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:317
 msgid "Your subscription expires in %d days. Enable autorenew to avoid losing updates and access to support."
 msgstr "Votre abonnement expire dans %d jours. Activez le renouvellement automatique pour éviter de perdre les mises à jour et l’accès à l’assistance."
+
+#: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Historical_Data.php:83
+msgid "Get Started"
+msgstr "Premiers pas"
 
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Onboarding_Email_Marketing.php:33
 msgid "Tips, product updates, and inspiration"

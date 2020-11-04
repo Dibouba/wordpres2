@@ -37,7 +37,7 @@
 ?>
  <div class="row">
 	    <div class="col-12">    
-        	<img src="http://localhost:8080/wordpress/wp-content/themes/youpi/image.jpg" alt="Mon premier site Worpdress" class="img-fluid">     
+        	<img src="http://localhost:8080/wordpress/wp-content/themes/youpi/outils_jardinage.jpg" alt="Mon premier site Worpdress" class="img-fluid">     
 		</div>  <!-- .col -->  
   </div>  <!-- .row -->
   

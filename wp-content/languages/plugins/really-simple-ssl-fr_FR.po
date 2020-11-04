@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Really Simple SSL - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-10-20 00:49:45+0000\n"
+"PO-Revision-Date: 2020-10-30 09:10:57+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #. Author of the plugin
 msgid "Really Simple Plugins"
-msgstr "Really Simple Plugins"
+msgstr "Extensions Really Simple"
 
 #: class-admin.php:3858
 msgid "Enable this option to dismiss the review notice."
@@ -121,7 +121,7 @@ msgstr "Activez cette option pour supprimer toutes les notifications +1 dans lâ€
 
 #: class-admin.php:3443
 msgid "Dismiss all Really Simple SSL notices"
-msgstr "Ignorer toutes les notification Really Simple SSl"
+msgstr "Ignorer toutes les notifications Really Simple SSL"
 
 #: class-admin.php:2709 class-admin.php:2780 class-admin.php:2816
 #: class-admin.php:2830

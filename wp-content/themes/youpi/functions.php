@@ -42,6 +42,9 @@ if (function_exists( 'add_theme_support' ))
 {
     add_theme_support( 'post-thumbnails' );
 }
+//*** pour masquer la version de mon version de wordpress *****/
 
+remove_action("wp_head", "wp_generator");
 
- ?>        
+ ?> 
+        

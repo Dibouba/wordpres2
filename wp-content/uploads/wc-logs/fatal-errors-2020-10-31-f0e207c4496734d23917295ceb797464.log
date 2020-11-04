@@ -1,0 +1,33 @@
+2020-10-31T17:12:34+00:00 CRITICAL Uncaught Error: Class 'EM_Admin_Notice' not found in C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php:403
+Stack trace:
+#0 C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(287): em_wpml_activate(false)
+#2 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\wamp\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\wamp\www\wordpress\wp-admin\includes\plugin.php(699): do_action('activate_events...', false)
+#5 C:\wamp\www\wordpress\wp-admin\plugins.php(58): activate_plugin('events-manager-...', 'http://localhos...', false)
+#6 {main}
+  thrown dans C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php à la ligne 403
+
+2020-10-31T17:12:39+00:00 CRITICAL Uncaught Error: Class 'EM_Admin_Notice' not found in C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php:403
+Stack trace:
+#0 C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(287): em_wpml_activate('')
+#2 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\wamp\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\wamp\www\wordpress\wp-admin\plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown dans C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php à la ligne 403
+
+2020-10-31T17:12:39+00:00 CRITICAL Uncaught Error: Class 'EM_Admin_Notice' not found in C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php:403
+Stack trace:
+#0 C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(287): em_wpml_activate('')
+#2 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\wamp\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\wamp\www\wordpress\wp-admin\plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown dans C:\wamp\www\wordpress\wp-content\plugins\events-manager-wpml\em-wpml-admin.php à la ligne 403
+
+2020-10-31T17:24:54+00:00 CRITICAL syntax error, unexpected '/', expecting end of file dans C:\wamp\www\wordpress\wp-content\themes\youpi\functions.php à la ligne 45
+

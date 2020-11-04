@@ -1,0 +1,12 @@
+11-03-2020 @ 09:08:57 - Retrieving page access token
+11-03-2020 @ 09:08:58 - Array
+(
+    [data] => Array
+        (
+        )
+
+)
+
+11-03-2020 @ 11:33:22 - There was an error trying sync products using the Catalog Batch API for job 4a7cdfc5bc73661fc23d2090b62c3f86: OAuthException: (#803) Some of the aliases you requested do not exist: items_batch
+11-03-2020 @ 14:35:40 - There was an error trying sync products using the Catalog Batch API for job 8085d20fe56d4928c0b53822819c9c1b: OAuthException: (#803) Some of the aliases you requested do not exist: items_batch
+11-03-2020 @ 21:34:26 - There was an error trying sync products using the Catalog Batch API for job f4b03fff9e0510f0375c9db8996d26d8: OAuthException: (#803) Some of the aliases you requested do not exist: items_batch
